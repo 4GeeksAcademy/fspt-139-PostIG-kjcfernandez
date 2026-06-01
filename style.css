@@ -1,0 +1,32 @@
+.post{
+margin: 20px auto;
+width: 500px;
+background-color: #fff;
+border: 1px solid #dbdbdb;
+}
+.post-header {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.post-header-icon {
+    font-size: 30px;
+    color: #000;
+}
+.post-header-info p {
+    margin: 0;
+    font-size: 14px;
+}   
+.post-header-menu {
+    margin-left: auto;
+    font-size: 20px;
+    color: #000;
+}
+.post-img img {
+    width: 100%;
+}
+.post-icons{
+    display:flex;
+     justify-content: space-between;
+    align-items: center;
+}
