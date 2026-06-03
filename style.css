@@ -1,13 +1,14 @@
 .post{
 margin: 20px auto;
 width: 500px;
-background-color: #fff;
 border: 1px solid #dbdbdb;
+padding: 10px;
 }
 .post-header {
     display: flex;
     align-items: center;
     gap: 10px;
+    padding-bottom: 10px;
 }
 .post-header-icon {
     font-size: 30px;
@@ -27,6 +28,11 @@ border: 1px solid #dbdbdb;
 }
 .post-icons{
     display:flex;
-     justify-content: space-between;
+    justify-content: space-between;
     align-items: center;
+    padding-top: 10px;
+    margin: 5px;
+}
+p{
+    margin:10px;
 }
